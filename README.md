@@ -9,6 +9,8 @@ The data used in this thesis is LendingClub's public data from 2007 to 2020.
 - 04_credit_drift_analysis.ipynb contains functions used to create transition matrices.
 - 05_hyperparameter_tuning.ipynb tunes XGBoost and Neural Network model using balanced undersampled data.
 
+Data and figures folder not included in this repository.
+
 ----
 
 ## Future Work
