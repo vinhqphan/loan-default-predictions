@@ -18,3 +18,5 @@ Data and figures folder not included in this repository.
 #### Survival analysis
 Given a set of features, try to predict when down the line the loan will default or if it will default at all.
 This analysis can be used to assign some sort of score (A, B, etc.) in conjunction with a predicted probability of default from the models in the previous section.
+
+Create python script with a Class which streamlines modeling process in order to test models on many different feature sets. Include a way to store results from the models using these different data sets.
